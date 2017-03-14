@@ -31,3 +31,5 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
+
+p.s.  https://sites.google.com/site/reflection4learning/why-reflect 
