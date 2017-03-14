@@ -1,5 +1,6 @@
-Reflect: Using diff to Find Bugs
+You can download lesson-1-reflection-prompts.txt here
 
+Reflect: Using diff to Find Bugs
 Make sure you can access the command line
 If you are on Windows, you’ll need to install some software in order to use a unix-like command line (different from the Windows built-in Command Prompt), as we mentioned previously. For more info, check out this page.
 
